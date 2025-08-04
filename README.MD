@@ -77,7 +77,7 @@ All results are saved in `./results/`, including:
 
 ## 📜 License
 
-Advance Optimization
+Advanced Optimization
 Summer 2025
 
 Group 1
