@@ -77,5 +77,9 @@ All results are saved in `./results/`, including:
 
 ## 📜 License
 
+Advance Optimization
+Summer 2025
+
+Group 1
 Amirhossein Rampour, Saroosh Ashraf, Hammad Cheema
-100985357, 100961219, 100748355
+
