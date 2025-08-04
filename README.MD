@@ -36,9 +36,9 @@ See notes inside `requirements.txt`.
 ### Basic usage:
 
 ```bash
-python main.py --method ga   --gpu
-python main.py --method pso  --alpha 0.02 --pop 10 --ngen 5
-python main.py --method bo   --trials 20 --gpu
+python main.py --method ga --pop 5 --ngen 4 --gpu
+python main.py --method pso --method pso --pop 5 --ngen 4 --alpha 0.02 --gpu
+python main.py --method bo --method bo --trials 20 --gpu
 ```
 
 ### Optional arguments:
