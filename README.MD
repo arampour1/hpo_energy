@@ -83,6 +83,7 @@ Advanced Optimization
 Summer 2025
 
 Group 1
-Amirhossein Rampour, Saroosh Ashraf, Hammad Cheema
-100985357, 100961219, 100748355
+1. Amirhossein Rampour 100985357
+2. Saroosh Ashraf 100961219
+3. Hammad Cheema 100748355
 
