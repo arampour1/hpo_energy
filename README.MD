@@ -26,7 +26,7 @@ source .venv/bin/activate      # Linux/macOS
 1. pip install -r requirements.txt
 2. pip install --no-cache-dir --force-reinstall --no-deps -r requirements.txt
 ```
-use second command (--no-cache-dir --force-reinstall --no-deps) if still has issue with running code maybe you are using different version of package.
+Use second command (--no-cache-dir --force-reinstall --no-deps) if still has issue with running code maybe you are using different version of package.
 
 If you plan to run on GPU, ensure you use the **CUDA-enabled PyTorch build**.  
 See notes inside `requirements.txt`.
