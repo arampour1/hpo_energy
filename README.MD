@@ -67,6 +67,7 @@ All results are saved in `./results/`, including:
   - F1 vs Batch Size
   - F1 vs Epochs
 
+-- Preliminary Results Have been added to PreliminaryResults directory
 ---
 
 ## 🔧 Notes
