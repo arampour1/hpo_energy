@@ -59,7 +59,7 @@ python main.py --method bo --method bo --trials 20 --gpu
 
 ## 📂 Output Files
 
-All results are saved in `./results/`, including:
+All final results are saved in `./results/`, including:
 - CSV of final configurations (`*_results.csv`)
 - Scatter plots:
   - Energy vs F1
